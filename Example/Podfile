@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CTMediator_MBDetailVC_Tests' do
+  pod 'CTMediator_MBDetailVC', :path => '../'
+  
+  
+end
