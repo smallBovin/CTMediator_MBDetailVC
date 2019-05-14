@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CTMediator_MBDetailVC'
   s.version          = '0.0.1'
-  s.summary          = 'A short description of CTMediator_MBDetailVC.'
+  s.summary          = '详情页的中间件类别'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
