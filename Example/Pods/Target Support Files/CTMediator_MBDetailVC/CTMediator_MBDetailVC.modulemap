@@ -1,0 +1,6 @@
+framework module CTMediator_MBDetailVC {
+  umbrella header "CTMediator_MBDetailVC-umbrella.h"
+
+  export *
+  module * { export * }
+}

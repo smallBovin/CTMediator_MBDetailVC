@@ -1,0 +1,16 @@
+PODS:
+  - CTMediator_MBDetailVC (0.1.0)
+
+DEPENDENCIES:
+  - CTMediator_MBDetailVC (from `../`)
+
+EXTERNAL SOURCES:
+  CTMediator_MBDetailVC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator_MBDetailVC: beb90b0d761e48f3d8dbc91330922cd74ac945fc
+
+PODFILE CHECKSUM: 711a5ba830dfcca254799db8076994111577c741
+
+COCOAPODS: 1.6.1

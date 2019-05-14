@@ -28,9 +28,9 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		8E4FF50D4084DC2CB64EEACF /* Pods_CTMediator_MBDetailVC_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CTMediator_MBDetailVC_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CC929C291A461B8CB4484F2A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		D7F478E1B907392A74D19E8E /* CTMediator_MBDetailVC.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CTMediator_MBDetailVC.podspec; path = ../CTMediator_MBDetailVC.podspec; sourceTree = "<group>"; };
-		FFBBC94C74ACD81EA77EDF82 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		CC929C291A461B8CB4484F2A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		D7F478E1B907392A74D19E8E /* CTMediator_MBDetailVC.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CTMediator_MBDetailVC.podspec; path = ../CTMediator_MBDetailVC.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FFBBC94C74ACD81EA77EDF82 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,6 @@
 				4B6CA34C5E3F9647448C6812 /* Pods-CTMediator_MBDetailVC_Tests.debug.xcconfig */,
 				0708D4EE03E3745F28680AE7 /* Pods-CTMediator_MBDetailVC_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -160,6 +159,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
